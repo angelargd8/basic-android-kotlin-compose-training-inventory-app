@@ -1,3 +1,10 @@
+# Video: 
+- https://youtu.be/rxDbpzV5jQA
+
+
+
+
+
 Inventory app
 ==================================
 
